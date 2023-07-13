@@ -38,4 +38,7 @@ Developed an executive summary slide synthesizing all the findings from the proj
 - What their specific issues might be
 - How we can address/mitigate those concern
 
+## Certificate 
+![BCG Strategy Consulting](https://github.com/Deepanshu-Gond/BCG-Strategy-Consulting/assets/77718765/74eb209b-cf58-40ea-ba1a-2b9bf23cf1d0)
+
 
